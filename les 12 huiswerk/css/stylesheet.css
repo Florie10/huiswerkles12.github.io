@@ -1,0 +1,94 @@
+    
+    
+    
+    header{
+        background-color: #87CEFA;
+        width: 100%; 
+        height:100px
+    }
+    footer{
+        background-color: #87CEFA;
+        width: 100%; 
+        height:150px
+    }
+
+    td{
+        width:20%
+    }
+
+    #rijeenceleen{
+        background-color: #FFCCFF;
+        color:#000000
+    }
+
+    #rijeenceltwee{
+        background-color: #FF99FF
+    }
+
+    #rijeenceldrie{
+        background-color:#FF66FF; 
+        color:#2F4F4F
+    }
+
+    #rijeencelvier{
+        background-color:#FF33FF
+    }
+
+    #rijtweeceleen{
+        background-color:#CCCCFF;
+        color:#696969
+    }
+
+    #rijtweeceltwee{
+        background-color:#CC99FF
+    }
+
+    #rijtweeceldrie{
+        background-color:#CC66FF; 
+        color:#708090
+    }
+
+    #rijtweecelvier{
+        background-color:#CC33FF
+    }
+
+    #rijdrieceleen{
+        background-color:#99CCFF; 
+        color:#808080
+    }
+
+    #rijdrieceltwee{
+        background-color:#9999FF
+    }
+
+    #rijdrieceldrie{
+        background-color:#9966FF; 
+        color:#778899
+    }
+
+    #rijdriecelvier{
+        background-color:#9933FF
+    }
+
+    #rijvierceleen{
+        background-color:#66CCFF; 
+        color:#A9A9A9
+    }
+
+    #rijvierceltwee{
+        background-color:#6699FF
+    }
+    
+    #rijvierceldrie{
+        background-color:#6666FF; 
+        color:#C0C0C0
+    }
+    
+    #rijviercelvier{
+        background-color:#6633FF
+    }
+
+
+
+
+    
